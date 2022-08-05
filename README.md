@@ -1,1 +1,2 @@
 # Password-Generator-Application-in-Python
+  Google gives you suggestions when you create your new passwords Right! But how about creating your own password generator in python, GUI application. Sounds amazing, isn’t it? So let’s go ahead and make our another great GUI application or you can say a mini project in python. As we all know whenever we sign up for a new website we need to set our username and password. After typing our username when we take our cursor to the password section Google gives us a suggestion for a new password.
